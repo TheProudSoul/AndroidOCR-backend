@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AndroidOCR-backend:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndroidOCR_backend_war</output-path>
+    <root id="archive" name="AndroidOCR-backend_war.war">
+      <element id="artifact" artifact-name="AndroidOCR-backend:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="artifact" artifact-name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
