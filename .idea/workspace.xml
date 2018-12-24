@@ -66,7 +66,6 @@
       <change afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/SADemo/ImageServlet.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/SADemo/Model/ImageExpert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/SADemo/Model/Result.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/SADemo/Model/TesseractExpert$SingletonHolder.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/SADemo/Model/TesseractExpert.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/SADemo/TessCallerServlet.class" afterDir="false" />
@@ -219,9 +218,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="871" />
-    <option name="y" value="36" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="783" />
+    <option name="y" value="30" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -479,12 +478,12 @@
       <workItem from="1545620158452" duration="2607000" />
       <workItem from="1545623585432" duration="9457000" />
       <workItem from="1545639199322" duration="11458000" />
-      <workItem from="1545660178603" duration="1732000" />
+      <workItem from="1545660178603" duration="2001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63819000" />
+    <option name="totallyTimeSpent" value="64088000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
