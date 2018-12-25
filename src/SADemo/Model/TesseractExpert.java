@@ -5,7 +5,7 @@ import net.sourceforge.tess4j.ITesseract;
 import java.io.File;
 
 public class TesseractExpert {
-    private static String tessdata = "D:\\academic\\SA\\project\\AndroidOCR-backend\\src\\SADemo\\tessdata";
+    private static String tessdata = "C:\\WebAppData\\tessdata";
 //    private static String tessdata = "/usr/local/WebData/tessdata";
 //    static public ITesseract getInstance() {
 //        if (instance == null) {
